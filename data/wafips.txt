@@ -1,0 +1,41 @@
+country_code	reg_code	name	location_type
+53	53	Washington	0
+53	53001	Adams	4
+53	53003	Asotin	4
+53	53005	Benton	4
+53	53007	Chelan	4
+53	53009	Clallam	4
+53	53011	Clark	4
+53	53013	Columbia	4
+53	53015	Cowlitz	4
+53	53017	Douglas	4
+53	53019	Ferry	4
+53	53021	Franklin	4
+53	53023	Garfield	4
+53	53025	Grant	4
+53	53027	Grays Harbor	4
+53	53029	Island	4
+53	53031	Jefferson	4
+53	53033	King	4
+53	53035	Kitsap	4
+53	53037	Kittitas	4
+53	53039	Klickitat	4
+53	53041	Lewis	4
+53	53043	Lincoln	4
+53	53045	Mason	4
+53	53047	Okanogan	4
+53	53049	Pacific	4
+53	53051	Pend Oreille	4
+53	53053	Pierce	4
+53	53055	San Juan	4
+53	53057	Skagit	4
+53	53059	Skamania	4
+53	53061	Snohomish	4
+53	53063	Spokane	4
+53	53065	Stevens	4
+53	53067	Thurston	4
+53	53069	Wahkiakum	4
+53	53071	Walla Walla	4
+53	53073	Whatcom	4
+53	53075	Whitman	4
+53	53077	Yakima	4
