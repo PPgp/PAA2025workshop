@@ -56,10 +56,10 @@ For projecting the total fertility rate and life expectancy at birth (e0), natio
 1. Download the [TFR](https://bayespop.csss.washington.edu/data/bayesTFR/TFR1simWPP2024.tgz) compressed file and unpack it (e.g. using 7-Zip or WinZip on Windows or "tar xvfz" on Unix-based systems) into the "bayespop_workshop/data/wpp2024\_projections" directory. It creates a subdirectory called "TFR1unc".
 2. Repeat the same with the [e0](https://bayespop.csss.washington.edu/data/bayesLife/e01simWPP2024.tgz) file. It creates a subdirectory called "e01".
 
-<!--After these steps, your "bayespop\_workshop" directory should look like this:
+After these steps, your "bayespop\_workshop" directory should look like this:
 
-<img src="figs/dirstruct.png" height="300"/>-->
+<img src="figs/dirstruct.png" height="300"/>
 
 ## Workshop Material
 
-Link to be added soon.
+[Go to the workshop material](https://bayespop.csss.washington.edu/PAA2025workshop)
