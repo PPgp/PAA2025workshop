@@ -34,7 +34,7 @@ sessionInfo()
 You should see versions of the above packages. Check that they are as follows:
 
 ```
-wpp2024_1.1-3  bayesPop_11.0-2   MortCast_2.8-0   bayesLife_5.3-1   
+wpp2024_1.1-3  bayesPop_11.0-3   MortCast_2.8-0   bayesLife_5.3-1   
 bayesTFR_7.4-4 
 ```
 
